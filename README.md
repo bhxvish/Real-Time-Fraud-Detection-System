@@ -11,7 +11,7 @@ Detect fraudulent mobile money transactions in real time using machine learning.
 - High precision Random Forest model  
 - User-friendly UI for entering transaction details  
 - Easily extensible with SHAP explainability or dashboards  
-- ☁Optional: Deployable on Streamlit Cloud or Hugging Face Spaces
+- Optional: Deployable on Streamlit Cloud or Hugging Face Spaces
 
 ---
 
